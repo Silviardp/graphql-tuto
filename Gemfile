@@ -22,6 +22,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 # Added
 gem 'graphql', '1.9.17'
 gem 'bcrypt', '~> 3.1.13'
+gem 'search_object_graphql', '0.3.1'
 
 
 
